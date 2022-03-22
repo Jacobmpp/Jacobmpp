@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Jacob Holz (@Jacobmpp).
+- 👀 I’m interested in making computers do work for me.
+- 🌱 I’m currently learning AutoHotKey, Python, and how to deal with Windows issues.
+- 📫 You can reach me at **Mmmmmpp#3162** on Discord or email or cell if you already have them.
